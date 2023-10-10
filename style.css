@@ -183,7 +183,7 @@ section{
             border-radius: var(--br-sm-2);
             overflow: hidden;
             background-color: #e5d4c0;
-            height: 78%;
+            aspect-ratio: 3/4;
             width: 75%;
             margin-left: 4rem;
             transition: all .4s ease-in-out;
